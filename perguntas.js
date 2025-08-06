@@ -1,0 +1,10 @@
+criaCartao('Pensamento Lógico', 'O que é lógica?', 'É o estudo das regras do raciocínio.');
+criaCartao('Pensamento Lógico', 'Para que serve o pensamento lógico?', 'Para resolver problemas de forma racional.');
+criaCartao('Cidadania Digital', 'O que é cidadania digital?', 'É o uso responsável e ético das tecnologias.');
+criaCartao('Cidadania Digital', 'O que são dados pessoais?', 'São informações que identificam um indivíduo.');
+criaCartao('Pensamento Lógico', 'O que é um algoritmo?', 'Uma sequência de passos para resolver um problema.');
+criaCartao('Cidadania Digital', 'O que é fake news?', 'São notícias falsas divulgadas na internet.');
+criaCartao('Pensamento Lógico', 'O que é dedução?', 'É tirar uma conclusão lógica a partir de premissas.');
+criaCartao('Cidadania Digital', 'Como manter a segurança online?', 'Utilizando senhas fortes e não clicando em links suspeitos.');
+criaCartao('Pensamento Lógico', 'Qual a diferença entre causa e consequência?', 'Causa é o motivo, consequência é o resultado.');
+criaCartao('Cidadania Digital', 'O que é cyberbullying?', 'É o bullying praticado por meios digitais.');
